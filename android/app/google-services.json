@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609543408286",
+    "project_id": "govardhanthal-381fc",
+    "storage_bucket": "govardhanthal-381fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609543408286:android:762cbee7448fc07d4a498f",
+        "android_client_info": {
+          "package_name": "com.example.govardhan_thal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609543408286-ga2ar8hcuftvqu5skd4mf9blt1952fbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-5EjuGFew2ohi01szLJH4tG551ge-1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609543408286-ga2ar8hcuftvqu5skd4mf9blt1952fbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
